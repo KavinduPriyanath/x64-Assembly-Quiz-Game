@@ -1,1 +1,2 @@
 # x64-Assembly-Quiz-Game
+During some assignments in the university came across a problem related with Stacks and Registers. It took me a while to figure out what really happened and at last it was related to how Assembly language works. So I needed to learn some Assembly and make a project out with it. This silly Quiz game is an outcome of that. It almost took a lot of time and a lot of effort but later I figured out if I had just slowed down maybe I could have save some time, with this projects. 
